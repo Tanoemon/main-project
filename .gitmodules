@@ -1,0 +1,12 @@
+[submodule "sub-project1"]
+	path = sub-project1
+	url = https://github.com/Tanoemon/sub-project1
+[submodule "sub-project2"]
+	path = sub-project2
+	url = https://github.com/Tanoemon/sub-project2
+[submodule "sub-project3"]
+	path = sub-project3
+	url = https://github.com/Tanoemon/sub-project3
+[submodule "sub-project4"]
+	path = sub-project4
+	url = https://github.com/Tanoemon/sub-project4
